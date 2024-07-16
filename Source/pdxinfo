@@ -1,0 +1,5 @@
+name=PlayPod
+author=Nikhil Patil
+description=Music Player
+bundleID=com.nikhilp.playpod
+imagePath=system/
