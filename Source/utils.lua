@@ -1,1 +1,2 @@
-return "hello"
+pd = playdate
+gfx = playdate.graphics
